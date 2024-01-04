@@ -1,5 +1,6 @@
 # Instacart Market Basket Analysis
 
+Slide Link - [Here](https://docs.google.com/presentation/d/1KBWAjDC-xdoQ1i6ntl7SCFiKuSAw3xeWRiOivD73bUk/edit?usp=sharing)
 <img src="https://github.com/anubhavnehru/Instacart-Market-Basket-Analysis/assets/32483022/dadb46fd-6fdf-4a9e-875a-a255b2829a2c" width="800" height="500">
 
 ## Project Overview
