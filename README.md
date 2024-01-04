@@ -21,7 +21,6 @@ Market basket analysis is a pivotal aspect for retailers, providing insights int
 
 - Data Exploration and Preprocessing
 - Customer Segmentation Analysis
-- Predictive Modeling for Reorder Probability
 - Market Basket Analysis using Apriori Algorithm
 - Rule-Based Ensemble Model Implementation
 
@@ -35,10 +34,18 @@ Market basket analysis is a pivotal aspect for retailers, providing insights int
 
 ## Key Findings
 
-- Discovered distinct customer segments based on purchasing behavior.
-- Successfully predicted products with a high likelihood of being reordered.
 - Conducted comprehensive department and aisle analysis.
 - Identified peak purchasing times for effective targeted promotions.
+- Discovered distinct customer segments based on purchasing behavior.
+  - Health Enthusiasts
+  - Snack Lovers
+  - Veggie Lovers
+  - Diary Enthusiasts
+  - Balanced Shoppers   
+- Same Brand Same Product Different Flavour
+   - Based on the market basket analysis the key finding was that customers have a higher probability of buying the same brand's same product but of a different flavour
+<img src = "https://github.com/anubhavnehru/Instacart-Market-Basket-Analysis/assets/32483022/19586a75-f077-447e-a420-66f1ddb7b0f9" width = "50" height = "50"
+
 
 ## Future Enhancements
 
