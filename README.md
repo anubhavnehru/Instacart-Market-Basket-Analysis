@@ -1,8 +1,7 @@
 # Instacart Market Basket Analysis
 
 
-![image](https://github.com/anubhavnehru/Instacart-Market-Basket-Analysis/assets/32483022/e165e76b-b6ee-412b-8e4f-d50c1a732762)
-
+![image](https://github.com/anubhavnehru/Instacart-Market-Basket-Analysis/assets/32483022/dadb46fd-6fdf-4a9e-875a-a255b2829a2c)
 
 
 ## Project Overview
