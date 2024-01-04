@@ -44,9 +44,10 @@ Market basket analysis is a pivotal aspect for retailers, providing insights int
   - Balanced Shoppers   
 - Same Brand Same Product Different Flavour
    - Based on the market basket analysis the key finding was that customers have a higher probability of buying the same brand's same product but of a different flavour
-<img src="https://github.com/anubhavnehru/Instacart-Market-Basket-Analysis/assets/32483022/19586a75-f077-447e-a420-66f1ddb7b0f9" width="300" height="300" align = "center">
 
-
+<p align="center">
+<img src="https://github.com/anubhavnehru/Instacart-Market-Basket-Analysis/assets/32483022/19586a75-f077-447e-a420-66f1ddb7b0f9" width="300" height="300">
+</p>
 
 ## Future Enhancements
 
