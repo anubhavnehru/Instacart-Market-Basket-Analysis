@@ -42,8 +42,12 @@ Market basket analysis is a pivotal aspect for retailers, providing insights int
 
 ## Future Enhancements
 
-- Integration of additional machine learning models for further analysis.
-- Real-time implementation for dynamic market insights.
+- To optimize Market Basket Analysis, we need to categorize customers into distinct segments based on the user’s preferences. We can improve the understanding of these preferences by including additional data such as consumer demographics
+- We propose two levels of cross-selling product recommendations
+  - Cross-selling with Highest Lift Product
+  - Recommending products with the strongest lift with aisle
+- If we get Revenue information from Instacart,we can run more Customer Targeting analysis, like RFM Analysis, CLTV, etc
+
 - Enhanced visualization for intuitive data interpretation.
 
 Feel free to explore the notebooks and provide feedback. Your insights are valuable for continuous improvement!
