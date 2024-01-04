@@ -1,5 +1,6 @@
 # Instacart-Market-Basket-Analysis
 
+<b> Problem Statement </b>
 Market basket analysis is crucial for retailers to understand customer shopping behavior and improve decision-making. Utilizing customer transaction data and overcoming data management challenges, businesses can enhance product placement and customer experience, especially in the online grocery sector like Instacart.
 
 - Understanding Customer Shopping Behavior
