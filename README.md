@@ -7,7 +7,8 @@
 
 This project focuses on leveraging [open-source Instacart data](https://www.kaggle.com/c/instacart-market-basket-analysis) to conduct in-depth analysis of customer shopping behavior. The primary goal is to identify customer segments and perform market basket analysis using advanced machine learning algorithms, including Apriori and a Rule-Based Ensemble Model.
 
-** Key Concepts used** :
+
+Key Concepts used :
 - EDA
 - Customer Segmentation: K-means over PCA
 - Market Basket Analysis : Apriori Algorithm and Rule-Based Ensemble Model
