@@ -32,11 +32,13 @@ Market basket analysis is a pivotal aspect for retailers, providing insights int
 
 ## Technologies Used
 
-- Python
 - Pandas, NumPy, Scikit-learn
+- Data Visulaization
+- PCA
+- K-means
 - Apriori Algorithm
 - Rule-Based Ensemble Model
-- Jupyter Notebooks
+
 
 ## Key Findings
 
